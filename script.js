@@ -327,7 +327,7 @@ const universityData = [
         "id": "nu",
         "name": "Назарбаев Университет (НУ)",
         "city": "Нур-Султан (Астана)",
-        "image_url": "https://via.placeholder.com/300x200?text=NU", 
+        "image_url": "https://www.timeshighereducation.com/cms-academic/sites/default/files/2025-04/NU-logo_web.jpg", 
         "sections": {
             "mission_history": {
                 "title": "📜 Миссия, История и Лидерство",
@@ -357,15 +357,15 @@ const universityData = [
             },
             "virtual_tour": {
                 "title": "🗺️ 3D-тур",
-                "link": "https://www.youtube.com/embed/d3H_j_QYfC0" 
+                "link": "https://nu.edu.kz/ru/campus/campustour" 
             }
         }
     },
     {
         "id": "satbayev_uni",
-        "name": "Satbayev University (бывш. КазНТУ/КазНИТУ)",
+        "name": "Satbayev University ",
         "city": "Алматы",
-        "image_url": "https://via.placeholder.com/300x200?text=Satbayev+Uni", 
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/24/af/f824af1d-59a9-2b19-73bc-2cac83a2a0f1/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/1200x630wa.png", 
         "sections": {
             "mission_history": {
                 "title": "📜 Миссия, История и Лидерство",
@@ -403,7 +403,7 @@ const universityData = [
         "id": "kaznmu",
         "name": "Казахский национальный медицинский университет им. С.Д. Асфендиярова (КазНМУ)",
         "city": "Алматы",
-        "image_url": "https://via.placeholder.com/300x200?text=KAZNMU", 
+        "image_url": "https://www.gov.kz/uploads/2024/1/23/7785e33e3efce3d018019527525096bb_original.347827.png", 
         "sections": {
             "mission_history": {
                 "title": "📜 Миссия, История и Лидерство",
@@ -433,15 +433,15 @@ const universityData = [
             },
             "virtual_tour": {
                 "title": "🗺️ 3D-тур",
-                "link": "https://www.youtube.com/embed/z4f_g_Jk9U0"
+                "link": "https://world.kaznmu.edu.kz/index_ru.html#pano1962/-36.1/-0.0/90.0"
             }
         }
     },
     {
         "id": "kargmu",
-        "name": "Карагандинский медицинский университет (КарМУ)",
+        "name": "Карагандинский медицинский университет (КМУ)",
         "city": "Караганда",
-        "image_url": "https://via.placeholder.com/300x200?text=KarGMU",
+        "image_url": "https://img.hhcdn.ru/employer-logo/3404678.jpeg",
         "sections": {
             "mission_history": {
                 "title": "📜 Миссия, История и Лидерство",
@@ -471,7 +471,7 @@ const universityData = [
             },
             "virtual_tour": {
                 "title": "🗺️ 3D-тур",
-                "link": "https://www.youtube.com/embed/n4qN-d9N8U0"
+                "link": "https://kuula.co/share/hd3Q8/collection/71B5B?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1&inst=ru"
             }
         }
     },
@@ -479,7 +479,7 @@ const universityData = [
         "id": "enu",
         "name": "Евразийский национальный университет им. Л.Н. Гумилева (ЕНУ)",
         "city": "Нур-Султан (Астана)",
-        "image_url": "https://via.placeholder.com/300x200?text=ENU", 
+        "image_url": "https://avatars.mds.yandex.net/i?id=a9890d0ae1ca2d1480edf43aa5bea8beb36fa8af-5288552-images-thumbs&n=13", 
         "sections": {
             "mission_history": {
                 "title": "📜 Миссия, История и Лидерство",
@@ -517,7 +517,7 @@ const universityData = [
         "id": "kaznpu",
         "name": "Казахский национальный педагогический университет им. Абая (КазНПУ)",
         "city": "Алматы",
-        "image_url": "https://via.placeholder.com/300x200?text=KAZNPU", 
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ҚазҰПУ_.jpg/1200px-ҚазҰПУ_.jpg", 
         "sections": {
             "mission_history": {
                 "title": "📜 Миссия, История и Лидерство",
@@ -547,15 +547,15 @@ const universityData = [
             },
             "virtual_tour": {
                 "title": "🗺️ 3D-тур",
-                "link": "https://www.youtube.com/embed/z4f_g_Jk9U0" 
+                "link": "hhttps://kaznpu.kz/VirtualTour/index_en.html" 
             }
         }
     },
     {
         "id": "karu",
-        "name": "Карагандинский университет им. Е. А. Букетова (КарУ)",
+        "name": "Карагандинский национальный исследовательский университет им. Е. А. Букетова (КарНИУ)",
         "city": "Караганда",
-        "image_url": "https://via.placeholder.com/300x200?text=KARU", 
+        "image_url": "https://play-lh.googleusercontent.com/Vqswj4BVX-uDJ1_he4y-fAjVuXjT_L_gE2Ko2uL21oCM6QXd1Sk8n4cnNdS8MHLqQiE", 
         "sections": {
             "mission_history": {
                 "title": "📜 Миссия, История и Лидерство",
@@ -591,9 +591,9 @@ const universityData = [
     },
     {
         "id": "kartu",
-        "name": "Карагандинский технический университет (КарТУ)",
+        "name": "Карагандинский технический университет имени А. Сагинова (КарТУ)",
         "city": "Караганда",
-        "image_url": "https://via.placeholder.com/300x200?text=KarTU", 
+        "image_url": "https://avatars.mds.yandex.net/i?id=f5b77e7c87c6c772feadddce180a0148_sr-16973438-images-thumbs&n=13", 
         "sections": {
             "mission_history": {
                 "title": "📜 Миссия, История и Лидерство",
@@ -631,7 +631,7 @@ const universityData = [
         "id": "aitu",
         "name": "Astana IT University (AITU)",
         "city": "Нур-Султан (Астана)",
-        "image_url": "https://via.placeholder.com/300x200?text=AITU",
+        "image_url": "https://frankfurt2.apollo.olxcdn.com/v1/files/nwrvh9aq1sl52-KZ/image;s=683x359;q=50",
         "sections": {
             "mission_history": {
                 "title": "📜 Миссия, История и Лидерство",
@@ -669,7 +669,7 @@ const universityData = [
         "id": "iitu",
         "name": "Международный Университет Информационных Технологий (МУИТ / IITU)",
         "city": "Алматы",
-        "image_url": "https://via.placeholder.com/300x200?text=IITU",
+        "image_url": "https://avatars.mds.yandex.net/i?id=a752cd9a5a7129c8c8e8699ee65aaa5d_l-16469413-images-thumbs&n=13",
         "sections": {
             "mission_history": {
                 "title": "📜 Миссия, История и Лидерство",
