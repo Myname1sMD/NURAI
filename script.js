@@ -289,7 +289,7 @@ const universityData = [
         "id": "kaznu",
         "name": "Казахский национальный университет им. аль-Фараби (КазНУ)",
         "city": "Алматы",
-        "image_url": "https://via.placeholder.com/300x200?text=KAZNU",
+        "image_url": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b5/Al_Farabi_Universität_2024.svg/800px-Al_Farabi_Universität_2024.svg.png",
         "sections": {
             "mission_history": {
                 "title": "📜 Миссия, История и Лидерство",
@@ -319,7 +319,7 @@ const universityData = [
             },
             "virtual_tour": {
                 "title": "🗺️ 3D-тур",
-                "link": "https://www.youtube.com/embed/n4qN-d9N8U0"
+                "link": "https://elibrary.kaznu.kz/ru/virtualnyj-tur-biblioteki-al-farabi"
             }
         }
     },
